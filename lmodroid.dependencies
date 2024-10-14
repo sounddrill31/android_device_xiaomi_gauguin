@@ -1,9 +1,11 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_xiaomi_gauguin",
     "target_path": "kernel/xiaomi/gauguin"
   },
   {
+    "remote": "lineage",
     "repository": "android_hardware_xiaomi",
     "target_path": "hardware/xiaomi"
   }
